@@ -1,2 +1,2 @@
 # nashville-cemetary
-Class project about the Nashville Cemetary 
+Class project about the Nashville Cemetary data
